@@ -1,0 +1,5 @@
+{
+  "name": "CAPL Signal Transformer",
+  "description": "Automated tool to switch CAPL code between Real Signals (HIL) and System Variables/DLL Signals (SIL) using JSON mappings and AI.",
+  "requestFramePermissions": []
+}
